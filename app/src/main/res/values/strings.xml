@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">Menu Recommendation</string>
+    <string name="title_activity_main_page">MainPage</string>
+    <string name="title_home">Home</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_map">Map</string>
+    <string name="title_recipe">Recipe</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="search_location">Search Location</string>
+    <string name="search_nearby_supermarket">Search Nearby Supermarket</string>
+    <string name="search_nearby_convenience_store">Search Nearby Convenience Store</string>
+    <string name="recipe_title">Title</string>
+    <string name="pTag">Preference tags</string>
+    <string name="pDes">Please select the tags you dislike and provide corresponding information</string>
+    <string name="cb_meat">Meat</string>
+    <string name="cb_m1">Beef</string>
+    <string name="cb_m2">Pork</string>
+    <string name="cb_m3">Chicken</string>
+    <string name="cb_veggie">Veggie</string>
+    <string name="cb_v1">Lettuce</string>
+    <string name="cb_v2">Broccoli</string>
+    <string name="cb_v3">Spinach</string>
+    <string name="cb_soup">Soup</string>
+    <string name="cb_s1">Western soup</string>
+    <string name="cb_s2">Chinese soup</string>
+    <string name="bSub">Submit</string>
+    <string name="map">Map</string>
+    <string name="recipe">Recipe</string>
+    <string name="profile">Profile</string>
+    <string name="home">Home</string>
+    <string name="number">Number of people</string>
+    <string name="pCusine">Cuisine preference</string>
+    <string name="Dist">District</string>
+    <string name="profile_button">Edit</string>
+    <string name="prof_DFT">Dislike food tag</string>
+    <string name="edit_des">You can edit your preference here.</string>
+    <string name="prof_edit">Edit</string>
+    <string name="welcome">Welcome</string>
+    <string name="welcome_message">Welcome onboard! What is your name?</string>
+    <string name="sorry_no_results_were_found">Sorry, no results were found! :(</string>
+    <string name="search">Search</string>
+    <string name="today_menu">Today\'s Menu</string>
+    <string name="vegetable">Vegetable</string>
+    <string name="refresh">Refresh</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="history">History</string>
+    <string name="detailed_recipe">Detailed Recipe</string>
+
+    <string-array name="no_of_people_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+
+    <string-array name="no_of_meat_array">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="no_of_viggie_array">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="no_of_soup_array">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="district_array">
+        <item>Central and Western</item>
+        <item>Eastern</item>
+        <item>Islands</item>
+        <item>Kowloon City</item>
+        <item>Kwai Tsing</item>
+        <item>Kwun Tong</item>
+        <item>North</item>
+        <item>Sai Kung</item>
+        <item>Sha Tin</item>
+        <item>Sham Shui Po</item>
+        <item>Southern</item>
+        <item>Tai Po</item>
+        <item>Tsuen Wan</item>
+        <item>Tuen Mun</item>
+        <item>Wan Chai</item>
+        <item>Wong Tai Sin</item>
+        <item>Yau Tsim Mong</item>
+        <item>Yuen Long</item>
+    </string-array>
+
+</resources>
